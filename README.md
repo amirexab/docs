@@ -3,12 +3,12 @@
 
 ### [Amir Mohammed](https://www.linkedin.com/in/amir-mohammed-7b1306128/)
 
-## Flows
+## Usecases
 
  - Connect with web socket
  - Listen to incoming messages
  - Send message
- - Jumb to down FAB
+ - Jump to down FAB
 
 ## Demo
 
@@ -24,15 +24,15 @@
 
  - Listen to incoming messages
  
- ![lisen](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-listen.png)
+ ![lisen](https://imgur.com/YU28q0n.png)
  
  - Send message
  
-![send](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-send.png)
+![send](https://imgur.com/0Mg6T0I.png)
  
- - Jumb to down fab
+ - Jump to down fab
 
-![jump](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-fab.png)
+![jump](https://imgur.com/8kYnvpd.png)
 
 ## API Reference
 
@@ -53,7 +53,7 @@
 | `message` | `string` | **Required**. text of message |
 
 
-## Web Socket Referenc
+## Web Socket Reference
 
 #### Connect
 
