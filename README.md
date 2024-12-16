@@ -19,7 +19,7 @@
 
  - Connect with web socket
 
-![Engelbart](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-connect.png)
+![Engelbart](https://drive.google.com/file/d/1_AG4OTbjPiN1GYwbTl-Q1z4JMwG2mTZg/view)
 
 
  - Listen to incoming messages
