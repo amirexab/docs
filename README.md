@@ -12,19 +12,19 @@
 
 ## Demo
 
-![demo](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-demo.gif)
+![demo](https://imgur.com/7NynZ6s.gif)
 
 
 ## Diagrams
 
  - Connect with web socket
 
-![Engelbart](https://drive.google.com/file/d/1_AG4OTbjPiN1GYwbTl-Q1z4JMwG2mTZg/view)
+![connect](https://imgur.com/gQ3PT7F.png)
 
 
  - Listen to incoming messages
  
- ![alt text](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-listen.png)
+ ![lisen](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-listen.png)
  
  - Send message
  
@@ -32,7 +32,7 @@
  
  - Jumb to down fab
 
-![receive](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-fab.png)
+![jump](https://dgitsa-my.sharepoint.com/personal/a_mohammed_exab_sa/Documents/Diagrams/h-cs-fab.png)
 
 ## API Reference
 
